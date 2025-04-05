@@ -1,0 +1,5 @@
+Element after first Insertion:  1
+Element after three Inserts:  3
+Element after first deletion:  3
+Element after two deletion:  2
+Element after full deletion:  1
