@@ -1,0 +1,10 @@
+Singly Linked List: 
+3 -> 4 -> 5 -> None
+Singly Linked List after prepending: 
+0 -> 1 -> 2 -> 3 -> 4 -> 5 -> None
+After deleting first element in List: 
+1 -> 2 -> 3 -> 4 -> 5 -> None
+After deleting middle element in List: 
+1 -> 2 -> 3 -> 5 -> None
+After deleting last element in List: 
+1 -> 2 -> 3 -> None
