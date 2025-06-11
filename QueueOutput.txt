@@ -1,0 +1,2 @@
+Queue element: 10  20  30  
+ Is the Queue empty? True
